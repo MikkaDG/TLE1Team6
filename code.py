@@ -9,5 +9,5 @@ while True:
         cp.pixels[i] = color
 
     cp.pixels.show()
-    cp.pixels.brightness = 0.1
+    cp.pixels.brightness = 0.3
     time.sleep(0.5)
