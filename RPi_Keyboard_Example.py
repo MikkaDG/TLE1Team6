@@ -80,7 +80,7 @@ def send_char_key(character):
 # Main loop to handle controller inputs
 running = True
 pressed_buttons = set()
-axis_threshold = 0.7
+axis_threshold = 0.9
 
 # Main loop to handle events
 while running:
