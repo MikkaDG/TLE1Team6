@@ -1,3 +1,0 @@
-Adafruit CircuitPython 8.2.7 on 2023-10-19; Adafruit CircuitPlayground Express with Crickit libraries with samd21g18
-Board ID:circuitplayground_express_crickit
-UID:8F7C29333633535020312E37090C07FF
